@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <array name="metrics">
+        <item>Metre</item>
+        <item>Kilograms</item>
+        <item>Celcius</item>
+    </array>
+</resources>
